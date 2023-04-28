@@ -1,0 +1,11 @@
+.container{
+    border: 1px solid red;
+    text-align: center;
+    width: 300px;
+    margin: 20px;
+    
+  }
+  
+  .container img{
+    border-radius: 50%;
+  }
